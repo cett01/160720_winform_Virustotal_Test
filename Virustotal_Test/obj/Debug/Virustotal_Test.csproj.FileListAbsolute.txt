@@ -25,3 +25,7 @@ C:\Users\EKREMCİHAD\Documents\Visual Studio 2013\Projects\160720_winform_Virust
 C:\Users\EKREMCİHAD\Documents\Visual Studio 2013\Projects\160720_winform_Virustotal_Test\Virustotal_Test\bin\Debug\RestSharp.xml
 C:\Users\EKREMCİHAD\Documents\Visual Studio 2013\Projects\160720_winform_Virustotal_Test\Virustotal_Test\bin\Debug\VirusTotal.NET.pdb
 C:\Users\EKREMCİHAD\Documents\Visual Studio 2013\Projects\160720_winform_Virustotal_Test\Virustotal_Test\bin\Debug\VirusTotal.NET.xml
+C:\Users\EKREMCİHAD\Documents\Visual Studio 2013\Projects\160720_winform_Virustotal_Test\Virustotal_Test\bin\Debug\Virustotal_Test.exe.manifest
+C:\Users\EKREMCİHAD\Documents\Visual Studio 2013\Projects\160720_winform_Virustotal_Test\Virustotal_Test\bin\Debug\Virustotal_Test.application
+C:\Users\EKREMCİHAD\Documents\Visual Studio 2013\Projects\160720_winform_Virustotal_Test\Virustotal_Test\obj\Debug\Virustotal_Test.exe.manifest
+C:\Users\EKREMCİHAD\Documents\Visual Studio 2013\Projects\160720_winform_Virustotal_Test\Virustotal_Test\obj\Debug\Virustotal_Test.application
